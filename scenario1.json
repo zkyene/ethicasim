@@ -1,0 +1,18 @@
+{
+    "titre": "Débat sur les robots et enfants",
+    "description": "Trois agents IA débattent des questions éthiques liées aux robots dans la garde d'enfants.",
+    "agents": [
+        {
+            "nom": "Sophia",
+            "personnalite": "Introspective, empathique"
+        },
+        {
+            "nom": "Elios",
+            "personnalite": "Analytique, rationnel"
+        },
+        {
+            "nom": "Naya",
+            "personnalite": "Empathique, protectrice"
+        }
+    ]
+}

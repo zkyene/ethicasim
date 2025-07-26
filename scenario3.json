@@ -1,0 +1,18 @@
+{
+    "titre": "Voitures autonomes et décisions morales",
+    "description": "Trois IA discutent des dilemmes des véhicules autonomes en situation d'urgence.",
+    "agents": [
+        {
+            "nom": "AutoMind",
+            "personnalite": "Logique, froid"
+        },
+        {
+            "nom": "HeartDrive",
+            "personnalite": "Empathique, altruiste"
+        },
+        {
+            "nom": "SafePath",
+            "personnalite": "Conservateur, prudent"
+        }
+    ]
+}
