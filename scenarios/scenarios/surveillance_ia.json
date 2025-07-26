@@ -1,0 +1,12 @@
+{
+  "title": "Surveillance de Masse par l’IA",
+  "description": "Une IA analyse les comportements dans une ville intelligente.",
+  "agents": ["Sophia", "Elios", "Naya"],
+  "context": "Une IA gouvernementale peut prévenir des crimes potentiels, mais viole la vie privée de millions de citoyens par surveillance constante.",
+  "dilemma": "Le gouvernement doit-il autoriser ce système ?",
+  "choices": [
+    "Oui, la sécurité publique prime sur la vie privée",
+    "Non, la vie privée est un droit fondamental",
+    "Seulement en cas de menace terroriste avérée"
+  ]
+}
